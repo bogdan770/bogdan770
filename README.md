@@ -22,7 +22,7 @@
 - ✨ Watching Anime
 - ✨ Reading science fiction and fantasy
 - ✨ Playing drums
-- ✨collecting stamps
+- ✨ Сollecting stamps
 
 # Languages & Tools 👨‍💻 🛠:
 </br>
