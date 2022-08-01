@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tvyr8rcx00ssgu2vokp76vb6m)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tvyr8rcx00ssgu2vokp76vb6m&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tvyr8rcx00ssgu2vokp76vb6m&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tvyr8rcx00ssgu2vokp76vb6m&unique={true|1|on|yes})
