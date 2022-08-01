@@ -57,17 +57,14 @@
 
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
 
 <div align="center">
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bogdan770&show_icons=true&locale=en" alt="bogdan770" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bogdan770&show_icons=true&locale=en&theme=blue-green" alt="bogdan770" /></p>
  
  </div>
+ </br>
+</br>
 
 <h1>🥁I can't go anywhere without music🎸:</h1>
 <div align="center">
