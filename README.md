@@ -46,14 +46,22 @@
 </br>
 </br>
 
+# Contact Me 🙃:
 
+<a href="mailto:sliusarenko.work@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/bogdan-sliusarenko-016440185/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bogdan-sliusarenko-016440185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bogdan-sliusarenko-016440185/" height="30" width="40" /></a>
-<a href="https://fb.com/100009990630254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100009990630254" height="30" width="40" /></a>
-<a href="https://instagram.com/bogdansergeeich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bogdansergeeich" height="30" width="40" /></a>
-</p>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bogdan770&show_icons=true&locale=en&layout=compact" alt="bogdan770" /></p>
 
