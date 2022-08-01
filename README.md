@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bogdan, nice to meet you!</h1>
-<img align="center" hight="300" width="700" alt="GIF" align="center" src="https://media2.giphy.com/media/VXJWhaO7afRe/giphy.gif">
-
+<div align="center">
+<h1 >Hi 👋, I'm Bogdan, nice to meet you!</h1>
+<img hight="300" width="700" alt="GIF" align="center" src="https://media2.giphy.com/media/VXJWhaO7afRe/giphy.gif">
+</div>
 
 <h3 align="center">A beginning full stack web developer from Israel.</h3>
 
