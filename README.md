@@ -67,6 +67,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bogdan770&show_icons=true&locale=en" alt="bogdan770" /></p>
 
-<h1 align="center">🥁I can't go anywhere without music🎸</h1>
-
+<h1>🥁I can't go anywhere without music🎸:</h1>
+<div align="center">
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tvyr8rcx00ssgu2vokp76vb6m)
+ </div>
