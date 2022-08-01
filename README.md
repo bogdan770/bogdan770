@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bogdan</h1>
 <h3 align="center">A beginning full stack web developer from Israel.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bogdan770&label=Profile%20views&color=0e75b6&style=flat" alt="bogdan770" /> </p>
-
 - 🔭 I’m currently working on my final project on studies [news-explorer-api](https://github.com/bogdan770/news-explorer-api)
+
+- 🌱 I’m currently learning **ReactJS and Express**
 
 - 📫 How to reach me **sliusarenko.work@gmail.com**
 
@@ -21,6 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bogdan770&show_icons=true&locale=en" alt="bogdan770" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bogdan770&" alt="bogdan770" /></p>
-
+<h1 align="center">🥁I can't go anywhere without music🎸</h1>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tvyr8rcx00ssgu2vokp76vb6m)
