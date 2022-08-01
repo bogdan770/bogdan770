@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bogdan</h1>
+<h1 align="center">Hi 👋, I'm Bogdan, nice to meet you!</h1>
 <h3 align="center">A beginning full stack web developer from Israel.</h3>
 
 - 🔭 I’m currently working on my final project on studies [news-explorer-api](https://github.com/bogdan770/news-explorer-api)
