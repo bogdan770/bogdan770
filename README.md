@@ -3,13 +3,41 @@
 <img hight="300" width="700" alt="GIF" align="center" src="https://media2.giphy.com/media/VXJWhaO7afRe/giphy.gif">
 </div>
 
-<h3 align="center">A beginning full stack web developer from Israel.</h3>
+</br>
+</br>
+</br>
 
-- 🔭 I’m currently working on my final project on studies [news-explorer-api](https://github.com/bogdan770/news-explorer-api)
 
-- 🌱 I’m currently learning **ReactJS and Express**
+# About ME 💬 :
 
-- 📫 How to reach me **sliusarenko.work@gmail.com**
+### - I'm 30 years old full stack web developer from Israel.
+
+### - Learning :
+- ✨ HTML, CSS
+- ✨ JavaScript, React
+- ✨ NodeJS, Express
+
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading science fiction and fantasy
+- ✨ Playing drums
+- ✨collecting stamps
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
+
+<!-- For more icons please follow  https://github.com/devicons/devicon/tree/master/icons -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="120" hight="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3"  width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+</p>
+</br>
+</br>
+</br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
