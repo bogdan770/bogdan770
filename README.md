@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bogdan, nice to meet you!</h1>
+<img align="center" hight="300" width="700" alt="GIF" align="center" src="https://media2.giphy.com/media/VXJWhaO7afRe/giphy.gif">
+
+
 <h3 align="center">A beginning full stack web developer from Israel.</h3>
 
 - 🔭 I’m currently working on my final project on studies [news-explorer-api](https://github.com/bogdan770/news-explorer-api)
