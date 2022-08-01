@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello👋 My name is Bogdan!
+![Bogdan](https://lh3.googleusercontent.com/pxjAWjZ5vIT1dUQBMnAmUZAKAQzcFg3ZgPuNeL34zsS65G-2XW7KovoMSqpSv0aKv3c4wOgthV7o8kiSpEQXmE5ADbhUnVDbQ825Aux3YvRDrtOrMy1v2h2Hb3_LmUnLQrqHOJlA25dvx19G-iYY9lgF6s4Hz7sS2bcOlaE12Ru-cJ7gW_ftI0T7vHh4z2oZPsNrfva5XGoB7vFsHmBuBiJRC61hbC8MvUAXesUjUv16q0Ss2wPS7b2eL4yhMlTAbF7byk5rWUNK3a6pulNYQBRRn71zvA6cv3doKB_3hLHG8x35P47MTekbv1hrtNP3tHmWDvBmaSzM-Ja3siXLsdlT4YVUAvnLa1viuZTU6tLaqaMyoaLlJJilYLGcbMbFl5ZEcEVVXxuRXEhjINC5AnaY8ygN1mMEJCwvGv1rm4h0s0OQyVtLNXItoPt39Tp-WulpX-xN-NvAb5Bf-iku31avxSMXmRMF2yuKlGuQ51iS4em0ryOKaiPdf6ve1APmk5XlSVa5cox21yqrmcifnx3rRlEfEqaJNW-UfiHQO1GghVy34apNU-nBP9LmbPej0zoJOIshFA8bBdb0KigawGkURULwsGIXAR_fAshVHQcALJ-OmR4snvsh7tk0JfuApuj6WTNZUd7xyCuLvkN8UiqMje2UVqXqpKaoMDscHG-_pNXkBp_530N1dpwuYGAED4uVkThhuqLDm2tIiEWdRWsOITMSzgcq5w_xtc6E7Rh1qXRWv0MFX2cZguEZqibU0EaROA8qYlQdH6bhV42XaxDt-imnKau9MlKjo7QTE5tYdp4W2gsybjuKwk1gvn7QzLqeZQ=w1280-h848-no?authuser=0 "Орк")
+
+
 
 <!--
 **bogdan770/bogdan770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tvyr8rcx00ssgu2vokp76vb6m)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tvyr8rcx00ssgu2vokp76vb6m&count={5})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tvyr8rcx00ssgu2vokp76vb6m&width={500})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tvyr8rcx00ssgu2vokp76vb6m&unique={true|1|on|yes})
