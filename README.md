@@ -10,12 +10,7 @@
 
 # About ME 💬 :
 
-### - I'm 30 years old full stack web developer from Israel.
-
-### - Learning :
-- ✨ HTML, CSS
-- ✨ JavaScript, React
-- ✨ NodeJS, Express
+### - I'm full stack web developer from Israel. 
 
 ### - Hobbies : 
 - ✨ Gaming Addict
@@ -51,7 +46,7 @@
 <a href="mailto:sliusarenko.work@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" />
 </a>
-<a href="https://www.linkedin.com/in/bogdan-sliusarenko-016440185/">
+<a href="https://www.linkedin.com/in/bogdan-sliusarenko/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" />
 </a>
 
